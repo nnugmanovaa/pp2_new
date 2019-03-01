@@ -159,6 +159,7 @@ namespace Task_1
             FarManager farManager = new FarManager(origin); //init class
             farManager.Show(); //run first time
             farManager.Start(); //run main function
+            Console.ReadKey();
 
         }
     }
