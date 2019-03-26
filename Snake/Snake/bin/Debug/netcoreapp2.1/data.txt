@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Snake xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>
+    <Point>
+      <x>11</x>
+      <y>2</y>
+    </Point>
+  </a>
+  <cnt>0</cnt>
+</Snake>    <y>7</y>
+    </Point>
+    <Point>
+      <x>33</x>
+      <y>8</y>
+    </Point>
+    <Point>
+      <x>33</x>
+      <y>9</y>
+    </Point>
+    <Point>
+      <x>34</x>
+      <y>9</y>
+    </Point>
+    <Point>
+      <x>35</x>
+      <y>9</y>
+    </Point>
+  </a>
+  <cnt>0</cnt>
+</Snake>
