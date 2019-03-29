@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\mdk\Serializ\Serializ\bin\Debug\netcoreapp2.1\Serializ.deps.json
+C:\Users\user\Desktop\mdk\Serializ\Serializ\bin\Debug\netcoreapp2.1\Serializ.runtimeconfig.json
+C:\Users\user\Desktop\mdk\Serializ\Serializ\bin\Debug\netcoreapp2.1\Serializ.runtimeconfig.dev.json
+C:\Users\user\Desktop\mdk\Serializ\Serializ\bin\Debug\netcoreapp2.1\Serializ.dll
+C:\Users\user\Desktop\mdk\Serializ\Serializ\bin\Debug\netcoreapp2.1\Serializ.pdb
+C:\Users\user\Desktop\mdk\Serializ\Serializ\obj\Debug\netcoreapp2.1\Serializ.csprojAssemblyReference.cache
+C:\Users\user\Desktop\mdk\Serializ\Serializ\obj\Debug\netcoreapp2.1\Serializ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mdk\Serializ\Serializ\obj\Debug\netcoreapp2.1\Serializ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mdk\Serializ\Serializ\obj\Debug\netcoreapp2.1\Serializ.AssemblyInfo.cs
+C:\Users\user\Desktop\mdk\Serializ\Serializ\obj\Debug\netcoreapp2.1\Serializ.dll
+C:\Users\user\Desktop\mdk\Serializ\Serializ\obj\Debug\netcoreapp2.1\Serializ.pdb

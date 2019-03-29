@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\mdk\Mark\Mark\bin\Debug\netcoreapp2.1\Mark.deps.json
+C:\Users\user\Desktop\mdk\Mark\Mark\bin\Debug\netcoreapp2.1\Mark.runtimeconfig.json
+C:\Users\user\Desktop\mdk\Mark\Mark\bin\Debug\netcoreapp2.1\Mark.runtimeconfig.dev.json
+C:\Users\user\Desktop\mdk\Mark\Mark\bin\Debug\netcoreapp2.1\Mark.dll
+C:\Users\user\Desktop\mdk\Mark\Mark\bin\Debug\netcoreapp2.1\Mark.pdb
+C:\Users\user\Desktop\mdk\Mark\Mark\obj\Debug\netcoreapp2.1\Mark.csprojAssemblyReference.cache
+C:\Users\user\Desktop\mdk\Mark\Mark\obj\Debug\netcoreapp2.1\Mark.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mdk\Mark\Mark\obj\Debug\netcoreapp2.1\Mark.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mdk\Mark\Mark\obj\Debug\netcoreapp2.1\Mark.AssemblyInfo.cs
+C:\Users\user\Desktop\mdk\Mark\Mark\obj\Debug\netcoreapp2.1\Mark.dll
+C:\Users\user\Desktop\mdk\Mark\Mark\obj\Debug\netcoreapp2.1\Mark.pdb

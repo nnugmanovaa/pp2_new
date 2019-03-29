@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\bin\Debug\netcoreapp2.1\ComplexNum.deps.json
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\bin\Debug\netcoreapp2.1\ComplexNum.runtimeconfig.json
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\bin\Debug\netcoreapp2.1\ComplexNum.runtimeconfig.dev.json
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\bin\Debug\netcoreapp2.1\ComplexNum.dll
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\bin\Debug\netcoreapp2.1\ComplexNum.pdb
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\obj\Debug\netcoreapp2.1\ComplexNum.csprojAssemblyReference.cache
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\obj\Debug\netcoreapp2.1\ComplexNum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\obj\Debug\netcoreapp2.1\ComplexNum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\obj\Debug\netcoreapp2.1\ComplexNum.AssemblyInfo.cs
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\obj\Debug\netcoreapp2.1\ComplexNum.dll
+C:\Users\user\Desktop\mdk\ComplexNum\ComplexNum\obj\Debug\netcoreapp2.1\ComplexNum.pdb

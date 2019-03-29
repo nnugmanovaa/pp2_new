@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\bin\Debug\netcoreapp2.1\SuperCar.deps.json
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\bin\Debug\netcoreapp2.1\SuperCar.runtimeconfig.json
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\bin\Debug\netcoreapp2.1\SuperCar.runtimeconfig.dev.json
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\bin\Debug\netcoreapp2.1\SuperCar.dll
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\bin\Debug\netcoreapp2.1\SuperCar.pdb
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\obj\Debug\netcoreapp2.1\SuperCar.csprojAssemblyReference.cache
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\obj\Debug\netcoreapp2.1\SuperCar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\obj\Debug\netcoreapp2.1\SuperCar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\obj\Debug\netcoreapp2.1\SuperCar.AssemblyInfo.cs
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\obj\Debug\netcoreapp2.1\SuperCar.dll
+C:\Users\user\Desktop\mdk\SuperCar\SuperCar\obj\Debug\netcoreapp2.1\SuperCar.pdb

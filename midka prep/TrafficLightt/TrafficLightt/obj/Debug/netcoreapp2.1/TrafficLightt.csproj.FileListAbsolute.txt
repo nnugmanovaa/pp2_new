@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\bin\Debug\netcoreapp2.1\TrafficLightt.deps.json
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\bin\Debug\netcoreapp2.1\TrafficLightt.runtimeconfig.json
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\bin\Debug\netcoreapp2.1\TrafficLightt.runtimeconfig.dev.json
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\bin\Debug\netcoreapp2.1\TrafficLightt.dll
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\bin\Debug\netcoreapp2.1\TrafficLightt.pdb
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\obj\Debug\netcoreapp2.1\TrafficLightt.csprojAssemblyReference.cache
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\obj\Debug\netcoreapp2.1\TrafficLightt.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\obj\Debug\netcoreapp2.1\TrafficLightt.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\obj\Debug\netcoreapp2.1\TrafficLightt.AssemblyInfo.cs
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\obj\Debug\netcoreapp2.1\TrafficLightt.dll
+C:\Users\user\Desktop\mdk\TrafficLightt\TrafficLightt\obj\Debug\netcoreapp2.1\TrafficLightt.pdb
